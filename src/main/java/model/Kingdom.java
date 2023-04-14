@@ -1,7 +1,7 @@
 package model;
 
 import model.building.Building;
-import model.unit.Unit;
+import model.people.Unit;
 
 import java.util.ArrayList;
 import java.util.HashMap;
@@ -11,7 +11,6 @@ public class Kingdom {
     private Integer noneEmployed;
     private Integer fearRate;
     private Integer popularity;
-
     private Building headquarter;
     private HashMap<Food , Integer> foods = new HashMap<>();
     private ArrayList<Unit> units = new ArrayList<>();

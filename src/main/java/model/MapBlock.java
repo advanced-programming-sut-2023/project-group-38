@@ -1,7 +1,7 @@
 package model;
 
 import model.building.Building;
-import model.unit.Unit;
+import model.people.Unit;
 
 import java.util.ArrayList;
 
