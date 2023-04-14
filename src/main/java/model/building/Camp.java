@@ -1,7 +1,7 @@
 package model.building;
 
 import model.MapBlock;
-import model.unit.Unit;
+import model.people.Unit;
 
 import java.util.ArrayList;
 

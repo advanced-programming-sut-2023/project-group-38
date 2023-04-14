@@ -1,4 +1,4 @@
-package model.unit;
+package model.people;
 
 public enum UnitType {
     ;
