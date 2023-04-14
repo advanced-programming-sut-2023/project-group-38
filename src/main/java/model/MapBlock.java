@@ -53,7 +53,7 @@ public class MapBlock {
     }
 
     public void setMapBlockType(MapBlockType mapBlockType) {
-        this.mapBlockType = mapBlockType;
+         this.mapBlockType = mapBlockType;
     }
 
     public Integer getxPosition() {
